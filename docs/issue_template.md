@@ -1,6 +1,6 @@
 **Defect Type:** Functional
 **Defect Classification:** Application 
-**RTC:** 
+**RTC:** []()
 **Scenario:**
 **Issue:** 
 **Steps to Recreate:**
